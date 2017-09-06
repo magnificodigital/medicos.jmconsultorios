@@ -54,7 +54,7 @@
 <script type="text/javascript" src="<?php echo $prefix_dir; ?>/js/main.js"></script> 
 
 <?php else: ?>
-<script type="text/javascript" src="http://jmconsultorios.com.br/wp-content/themes/jmconsultorios/assets/scripts.min.js"></script>
+<script type="text/javascript" src="https://jmconsultorios.com.br/wp-content/themes/jmconsultorios/assets/scripts.min.js"></script>
 <?php endif; ?>
 
 <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
@@ -131,14 +131,14 @@
 		});
 	});
 
-	//Menu
+	/*Menu*/
 	$(function(){
 		if ($(window).width() > 768) {
 			var nav = $('header#block-header-site');
 			var navaltura = $(nav).outerHeight();
 			var altura = $(window).height();
 
-			altura = altura - navaltura - 2;  //evita que na seção "vantagens" o menu suma
+			altura = altura - navaltura - 2;  /*evita que na seção "vantagens" o menu suma*/
 
 			$(window).scroll(function() { 
 				if ($(this).scrollTop() > altura) { 
@@ -157,7 +157,7 @@
 		}
 	});
 
-	//Box planos
+	/*Box Planos*/
 	$(function(){
 		var p = $('.1-plano, .3-plano');
 		var pactive = $('.2-plano');
@@ -171,7 +171,7 @@
 		});
 	});
 	
-	//scroll
+	/*Scroll*/
 	$(function(){
 		var elements = $('#block-header-site a, #benefits, .link-logo');
 		elements.click(function(e){
@@ -183,7 +183,7 @@
 		});
 	});
 
-	//vantagens
+	/*vantagens*/
 	$(document).ready(function(){
 		var botao = $('.abrevantagens');
 		$(botao).on('click',function(){
@@ -195,7 +195,7 @@
 		});
 	});
 
-	//planos
+	/*planos*/
 	$(function(){
 		var boxplano = $('#boxplanos');
 		var plano = '1';

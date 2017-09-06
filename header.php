@@ -30,11 +30,11 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo $prefix_dir; ?>/css/main.css">
 	<?php else: ?>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="http://jmconsultorios.com.br/wp-content/themes/jmconsultorios/assets/style.min.css">
+	<link rel="stylesheet" type="text/css" href="https://jmconsultorios.com.br/wp-content/themes/jmconsultorios/assets/style.min.css">
 	<?php endif; ?>
 
 	
-	<link rel="stylesheet" href="http://magnificodigital.com/assets/createdby/createdby.css" />
+	<!--<link rel="stylesheet" href="https://magnificodigital.com/assets/createdby/createdby.css" />-->
 	<link rel="shortcut icon" href="<?php bloginfo('template_url') ?>/images/favicon.png">
 
 	<?php wp_head(); ?>

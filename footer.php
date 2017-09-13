@@ -29,9 +29,10 @@
 <div class="sub-footer">
 	<div class="container">
 		<p>© 2017 - <?php bloginfo('name') ?> | <a href="http://jmconsultorios.com.br/politica-de-privacidade/">Política de Privacidade</a></p>
+		<!--
 		<center>
 			<a href="http://magnificodigital.com" target="_blank" class="createdmagnifico white"></a>
-		</center>
+		</center>-->
 	</div>
 </div>
 

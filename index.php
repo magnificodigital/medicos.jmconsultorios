@@ -9,7 +9,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-9 col-md-10 col-sm-12 col-xs-12 center-all center-x">
-							<div class="call-to-action">
+							<div class="call-to-action animated fadeIn">
 								<h1><strong>Dedique seu tempo aos pacientes.</strong> Nós cuidamos do seu negócio, com alta tecnologia e equipe qualificada</h1>
 								<a href="#vantagens" id="benefits" class="btn btn-site">Quero saber mais</a>
 							</div>

@@ -632,10 +632,9 @@
 	</section>
 
 	<!--forms planos -->
-
 	<div id="boxplanos">
 		<h2>Insira seus dados e selecione o plano que combina com você</h2>
-		<div id="jm-consultorios-planos-79a38ffce6f9ce331547"></div>
+		<div id="persona-1-planos-03849db228c01e4c9727"></div>
 	</div>
 	
 <?php get_footer(); ?>

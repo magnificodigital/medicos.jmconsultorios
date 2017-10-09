@@ -60,14 +60,14 @@
 
 <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
 <script type="text/javascript">
-	new RDStationForms('jm-consultorios-formulario-de-contato-6fcbe42c67f8ac283d2f-html', 'UA-47651710-1').createForm();
- 	new RDStationForms('jm-consultorios-planos-79a38ffce6f9ce331547-html', 'UA-47651710-1').createForm();
- 	new RDStationForms('jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7-html', 'UA-47651710-1').createForm();
-	$("[data-fancybox]").fancybox();
+	new RDStationForms('persona-1-planos-03849db228c01e4c9727-html', 'UA-100622361-1').createForm();
+	new RDStationForms('persona-1-newsletter-blog-5e841b78815315144e5d-html', 'UA-100622361-1').createForm();
+	new RDStationForms('persona-1-contato-2219c8ed1ef25003e533-html', 'UA-100622361-1').createForm();
 </script>
 
-
 <script type="text/javascript">
+
+	$("[data-fancybox]").fancybox();
 
 	$(document).ready(function(){
 		$('.bloco-telefone').click(function(){
@@ -238,8 +238,8 @@
 
 </script>
 
-<!-- Código de monitoramento RD -->
-<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/1f43a906-f1a1-427f-bb5d-30ea68ae49f5-loader.js" ></script>
+<!--Código de monitoramento-->
+<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/14d82f2d-4490-478a-a646-9c21887909ef-loader.js" ></script>
 
 <!--Google Analytics-->
 <script>
@@ -252,71 +252,30 @@
   ga('send', 'pageview');
 </script>
 
-
+<?php if (is_page('blog')) : ?>
 <style type="text/css">
-
-	#form-container-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 #conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section {padding: 0px !important;}
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 {background: none !important;}
-	#form-container-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 * {font-family: 'Open Sans', sans-serif !important;}
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field,
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions,
-	#conversion-modal-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 .modal-content section form div.field,
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions {float: left !important; width: 33% !important; padding: 0 !important;}
-	#form-container-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 #conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 #conversion-form-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 div.actions input.call_button {
-		padding: 8px !important;
-		background: #1dbcaa !important;
-		font-weight: 400 !important;
-		text-transform: uppercase !important;
+	#form-container-persona-1-newsletter-blog-5e841b78815315144e5d #conversion-persona-1-newsletter-blog-5e841b78815315144e5d section {
+		padding: 0 !important;
 	}
-
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field input,
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee72 section div.actions .call_button {
-		border: 0 !important;
-		border-radius: 0 !important;
-	}
-
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field input {background: #EEE !important; padding: 10px !important; height: inherit !important;}
-
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field,
-	#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions {
-		padding: 0 10px !important;
-	}
-
-	@media (max-width: 768px) {
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field input,
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions .call_button {font-size: 14px !important;}
-
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field,
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions {padding: 0 5px !important}
-
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field,
-		#conversion-modal-faz-bem-clinicas-box-newsletter-19b0fcc13437fa976642 .modal-content section form div.field {
-			width: 50% !important;
-		}
-
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions {width: 100% !important; margin-top: 10px !important;}
-	}
-
-	@media (max-width: 543px) {
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field,
-		#conversion-modal-faz-bem-clinicas-box-newsletter-19b0fcc13437fa976642 .modal-content section form div.field {
-			width: 100% !important;
-			margin-bottom: 10px !important;
-		}
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions {margin-top: 0 !important;}
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.field input,
-		#conversion-jm-consultorios-box-newsletter-d0de0f78f2aa58bdfee7 section div.actions .call_button {
-			text-align: center !important;
+	@media (min-width: 990px) {
+		#conversion-persona-1-newsletter-blog-5e841b78815315144e5d section div.field,
+		#conversion-persona-1-newsletter-blog-5e841b78815315144e5d .modal-content section div.actions, #conversion-persona-1-newsletter-blog-5e841b78815315144e5d section div.actions {
+			width: 30% !important;
+			float: left !important;
+			margin-right: 5px !important;
 		}
 	}
-
-	#conversion-jm-consultorios-formulario-de-contato-6fcbe42c67f8ac283d2f form input {
-		border: 0 !important;
-		background: #EEE !important;
+	#conversion-persona-1-newsletter-blog-5e841b78815315144e5d form input, #conversion-persona-1-newsletter-blog-5e841b78815315144e5d form select, #conversion-persona-1-newsletter-blog-5e841b78815315144e5d form .select2-container, #conversion-persona-1-newsletter-blog-5e841b78815315144e5d form textarea {
+		background-color: #EEEEEE !important;
 	}
-
+	#conversion-persona-1-newsletter-blog-5e841b78815315144e5d .modal-content section div.actions, #conversion-persona-1-newsletter-blog-5e841b78815315144e5d section div.actions {
+		padding: 0 !important;
+	}
+	#conversion-persona-1-newsletter-blog-5e841b78815315144e5d section div.actions .call_button {
+		padding: 4px !important;
+	}
 </style>
-
+<?php endif; ?>
 
 </body>
 </html>

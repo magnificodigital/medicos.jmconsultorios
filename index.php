@@ -253,7 +253,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 40,00/hora</span></p>
+											<p><span>R$ 44,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -277,7 +277,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 45,00/hora</span></p>
+											<p><span>R$ 55,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -301,7 +301,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 55,00/hora</span></p>
+											<p><span>R$ 60,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -354,7 +354,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 36,00/hora</span></p>
+											<p><span>R$ 40,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -380,7 +380,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 40,50/hora</span></p>
+											<p><span>R$ 45,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -405,7 +405,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 49,50/hora</span></p>
+											<p><span>R$ 54,50/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -453,7 +453,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 34,00/hora</span></p>
+											<p><span>R$ 37,50/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -477,7 +477,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 38,25/hora</span></p>
+											<p><span>R$ 42,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -501,7 +501,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 46,75/hora</span></p>
+											<p><span>R$ 51,50/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -551,7 +551,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 32,00/hora</span></p>
+											<p><span>R$ 35,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -575,7 +575,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 36,00/hora</span></p>
+											<p><span>R$ 40,00/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
@@ -599,7 +599,7 @@
 												<li><p>Marketing e divulgação para trazer mais pacientes;</p></li>
 												<li><p>Segurança 24 horas;</p></li>
 											</ul>
-											<p><span>R$ 44,00/hora</span></p>
+											<p><span>R$ 48,50/hora</span></p>
 											<div class="mask"></div>
 										</div>
 
